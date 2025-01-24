@@ -17,7 +17,7 @@ public class RentalWebService {
     Logger logger = LoggerFactory.getLogger(RentalWebService.class);
 
     public RentalWebService() {
-        Car car = new Car("11AA22", 2000);
+        Car car = new Car("11AC22", 2000);
         cars.add(car);
     }
 
